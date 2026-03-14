@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm **Om Bhamare** — a Cloud and DevOps enthusiast from India.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 I have a strong interest in **AWS Cloud, Infrastructure, and Automation**. I enjoy building scalable cloud architectures, deploying applications, and learning modern DevOps practices. My experience includes working with AWS services such as EC2, S3, VPC, RDS, IAM, CloudWatch, and Auto Scaling through hands-on projects and cloud training.
 
